@@ -6,4 +6,5 @@ type=file name=lunker.txt size=732
 type=file name=peanuts.txt size=732
 type=file name=moonmin.txt size=732
 type=file name=jb.txt size=732
+type=file name=spectraText.tap size=14783
 
