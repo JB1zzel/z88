@@ -1,0 +1,9 @@
+type=file name=Everest.txt size=2954
+type=file name=lewis.tap size=14783
+type=file name=boot.zx size=14783
+type=file name=catinhat.txt size=732
+type=file name=lunker.txt size=732
+type=file name=peanuts.txt size=732
+type=file name=moonmin.txt size=732
+type=file name=jb.txt size=732
+

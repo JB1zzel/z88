@@ -1,0 +1,69 @@
+ ____  ____  _____    _    _  __
+| __ )|  _ \| ____|  / \  | |/ /
+|  _ \| |_) |  _|   / _ \ | ' / 
+| |_) |  _ <| |___ / ___ \| . \ 
+|____/|_|_\_\_____/_/__ \_\_|\_\
+/ ___||  _ \ / \  / ___| ____|  
+\___ \| |_) / _ \| |   |  _|    
+ ___) |  __/ ___ \ |___| |___   
+|____/|_| /_/   \_\____|_____|  
+
+A Free Magazine for the ZX Spectrum Retro Homebrew scene.
+
+Everest Adventure. FREE        Why climb a mountain? Because
+it's there" - as George Mallory famously replied. Personally,
+I'd do it for the views. Gorgeous panoramas of nature at its
+most untamed, all framed beneath that enigmatic and elusive
+blue stuff we call the sky. Of course, I live in the UK, so
+there aren't so many mountains, and often when I climb them,
+rather than blue sky, it's gray drizzle. Still, I keep doing
+it. I'm past the 'all the gear, no idea' phase and into 'all
+the gear, pushing on through the rain, up, up, up!
+
+So, as an avid walker, going on an Everest Adventure does
+sound appealing. Especially when it can be done from the
+comfort of my armchair, on my beloved ZX Spectrum. No rain
+in sight, just a nice cup of tea. Feet up on the pouffe.
+
+Everest Adventure is a graphical text adventure that sets
+you the challenge of climbing the highest mountain in the
+world. Regardless of your motivation, to succeed you will
+need determination, skill, knowledge (the idea part), and
+of course - the gear! And it's that last part that is
+immediately tricky. While you start in your yellow tent at
+base camp, raring to go, you are missing key equipment that
+will make your trip possible - you first task is to explore
+base camp, meet inhabitants and find your gear.
+
+Right from the off, you are greeted with a striking visual
+feast. The graphical aspect of the game is no afterthought,
+but a fundamental. The colours are often paired back, chunky
+black outlines do not simply serve to mask the Spectrum's
+limitations, but allow the game to flaunt what can be
+achieved with an artful sensibility and a will to keep
+things simple. So the game has what I promised a good climb
+should have - a spectacular treat for the eyes. Everest
+Adventure looks gorgeous.
+
+The parser is the downfall of many intrepid text
+adventurers. QAOP + M for fire has become a Spectrum
+standard for platform games in recent years - gone are the
+awkward keys of the Spectrum's inception - Symbol Shift and
+M: I'm looking at you, Ant Attack. Similar strides towards
+standardisation have taken place in the text adventure
+world. Thankfully, Everest Adventure feels thoroughly
+modern, and anyone who is a fan of the home-brew text
+adventures of recent years should have no trouble at all.
+Beginners will also appreciate its story telling and
+guidance. I always felt like I knew what I was supposed to
+be doing and what options I had to accomplish my goals.
+
+So why climb a mountain in a game? Because it's there - but
+also because the rain isn't. Everest Adventure lets me have
+the views, the challenge, and the triumph, all without
+leaving the pouffe. The graphics are a treat, the parser is
+a dream, and the only grey drizzle is the one outside my
+window. I started this review talking about gear and
+determination. Turns out, all I really needed was a ZX
+Spectrum and a good cup of tea. Up, up, up - from my
+armchair. George Mallory, eat your heart out.
