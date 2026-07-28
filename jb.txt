@@ -15,8 +15,153 @@
    __/ // / / /_/ // __ \                /_/       
   / __// /_/ / __// /_/ /                          
  /____/\____/____/\____/                           
+'You just know crap when you see it': Meet Jamie
+Bradbury, judge of the world's worst video game
+contest
 
+The 2023 Crap Games Contest invites programmers
+to create the most terrible games possible for a
+retro British computer — and one man has to play
+them all
 
+By Sheena Goodyear
+CBC Radio · As It Happens
+Posted: July 7, 2023
 
+Jamie Bradbury has a job most people wouldn't
+envy. He spends his days playing deliberately
+terrible video games — and writing thoughtful
+reviews of each one.
 
-JB
+The 44-year-old from Hull, England, is the host
+and sole judge of the 2023 Comp.Sys.Sinclair
+Crap Games Contest, an annual tongue-in-cheek
+competition where programmers compete to create
+the worst possible games for the ZX Spectrum,
+one of the UK's oldest home computers.
+
+"There's no hard and fast criteria, really,"
+Bradbury told As It Happens host Nil Köksal in an
+interview for CBC Radio. "You just know crap when
+you see it."
+
+From lawnmowers to cocaine bears
+
+The contest has humble origins. In 1988, the
+computer magazine Your Sinclair published a
+glowing review of a game called Advanced
+Lawnmower Simulator — which didn't actually
+exist — as an April Fools' joke. A month later,
+they released an actual copy on a cassette tape
+attached to the magazine's cover.
+
+Readers began sending in their own terrible
+games, and the magazine launched a column called
+Crap Game Corner. The column eventually morphed
+into the annual contest that continues today.
+
+This year's entries include Cocaine Bear, loosely
+based on the 2023 film (which was itself loosely
+based on a true story); Face Punch, where the
+player slowly moves back and forth punching an
+opponent until he falls down; SUPER (advanced
+fishing simulator), a fishing simulator that is,
+in fact, not very advanced at all; and multiple
+games based on the popular drawing toy Etch A
+Sketch.
+
+Bradbury's job is to play and review every single
+submission. He's done nearly 30 so far and will
+continue reviewing games as they roll in through
+December 16.
+
+"Imagine if you've got five different Etch A
+Sketch games and you've got to write a review on
+each one and they're all essentially more or less
+the same thing," he said.
+
+To the loser goes the crown
+
+So how did Bradbury end up with such a tedious
+responsibility? It's his reward — or punishment
+— for being too good at the competition last
+year.
+
+Every year, the person whose game is judged to be
+the "least crappy" is tasked with hosting and
+judging the following year's competition.
+
+Bradbury earned the position by creating Isle of
+Jobo, a game where players control a corrupt
+prime minister trying to hold onto power while
+lining his own pockets and those of his cronies.
+
+"I'm proud of the game I made, definitely,"
+Bradbury said.
+
+But he's got mixed feelings about his victory.
+
+"There's definitely a lot of work that's involved
+to run a year-long competition where you're
+reviewing games with a very mixed quality
+standard," he said. "It's quite a lot of pressure
+to think of something novel and interesting to
+say with a game that might have taken someone
+five minutes to make, and it doesn't really do
+anything."
+
+The charm of retro gaming
+
+All submissions are designed for the ZX Spectrum,
+a system released in 1982 that could display only
+eight basic colours and had 90,000 times less
+memory than a modern iPhone. For Bradbury, that's
+part of the appeal.
+
+"People of my generation, it's the first computer
+that people had in their homes. So I think
+there's a lot of great childhood memories and
+nostalgia connected to it," he said.
+
+The games are all free to download, and modern
+gamers can play them using an emulator — a
+program that simulates the ZX Spectrum experience
+on a computer.
+
+Bradbury says the "crap" factor can come from
+many places. Some entries are technically inept
+— the creator had big ambitions but not enough
+programming skill. Others lean heavily into a
+particular sense of humour that doesn't quite
+land.
+
+"If you have great ambition, but maybe your skill
+level as a programmer doesn't meet that ambition,
+then that could make something crap," he said.
+"If you've got a certain sense of humour and you
+want to sort of build a game around that, then
+that could be quite crap."
+
+What's next
+
+The contest ends Dec. 16, at which point Bradbury
+will decide which game is the most crap, and
+which is the least crap — thus passing the
+hosting duties to another unfortunate soul for
+
+2024. 
+
+"I've always found it tremendously amusing to
+sort of quickly code a crap game over lunch and
+then see what people think about it," he said.
+"It's nice to be part of that history, really."
+
+And what about the power of being the sole
+arbiter of crapness?
+
+"I'll try not to let the power go to my head,"
+he joked.
+
+This interview originally aired on CBC Radio's
+As It Happens. It has been edited for clarity
+and length.
