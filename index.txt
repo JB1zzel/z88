@@ -3,12 +3,9 @@ Generating index for C:\tnfsd\Weblive\z88
 type=file name=boot.zx size=66
 type=file name=catinhat.txt size=732
 type=file name=Everest.txt size=3368
-type=file name=indexcreator.bat size=457
-type=file name=indexold.txt size=335
 type=file name=jb.txt size=5827
 type=file name=lewis.tap size=14701
 type=file name=lunker.txt size=3081
 type=file name=moonmin.txt size=618
 type=file name=peanuts.txt size=1277
-type=file name=README.md size=57
 type=file name=spectraText.tap size=12421
