@@ -21,16 +21,16 @@ contest
 
 The 2023 Crap Games Contest invites programmers
 to create the most terrible games possible for a
-retro British computer — and one man has to play
+retro British computer -  and one man has to play
 them all
 
 By Sheena Goodyear
-CBC Radio · As It Happens
+CBC Radio - As It Happens
 Posted: July 7, 2023
 
 Jamie Bradbury has a job most people wouldn't
 envy. He spends his days playing deliberately
-terrible video games — and writing thoughtful
+terrible video games - and writing thoughtful
 reviews of each one.
 
 The 44-year-old from Hull, England, is the host
@@ -41,7 +41,7 @@ the worst possible games for the ZX Spectrum,
 one of the UK's oldest home computers.
 
 "There's no hard and fast criteria, really,"
-Bradbury told As It Happens host Nil Köksal in an
+Bradbury told As It Happens host Nil Koksal in an
 interview for CBC Radio. "You just know crap when
 you see it."
 
@@ -50,8 +50,8 @@ From lawnmowers to cocaine bears
 The contest has humble origins. In 1988, the
 computer magazine Your Sinclair published a
 glowing review of a game called Advanced
-Lawnmower Simulator — which didn't actually
-exist — as an April Fools' joke. A month later,
+Lawnmower Simulator - which didn't actually
+exist -  as an April Fools' joke. A month later,
 they released an actual copy on a cassette tape
 attached to the magazine's cover.
 
@@ -83,8 +83,8 @@ the same thing," he said.
 To the loser goes the crown
 
 So how did Bradbury end up with such a tedious
-responsibility? It's his reward — or punishment
-— for being too good at the competition last
+responsibility? It's his reward -  or punishment
+-  for being too good at the competition last
 year.
 
 Every year, the person whose game is judged to be
@@ -124,13 +124,13 @@ there's a lot of great childhood memories and
 nostalgia connected to it," he said.
 
 The games are all free to download, and modern
-gamers can play them using an emulator — a
+gamers can play them using an emulator -  a
 program that simulates the ZX Spectrum experience
 on a computer.
 
 Bradbury says the "crap" factor can come from
 many places. Some entries are technically inept
-— the creator had big ambitions but not enough
+-  the creator had big ambitions but not enough
 programming skill. Others lean heavily into a
 particular sense of humour that doesn't quite
 land.
@@ -146,7 +146,7 @@ What's next
 
 The contest ends Dec. 16, at which point Bradbury
 will decide which game is the most crap, and
-which is the least crap — thus passing the
+which is the least crap -  thus passing the
 hosting duties to another unfortunate soul for
 
 2024. 
