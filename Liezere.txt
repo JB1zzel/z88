@@ -3,7 +3,7 @@ with a semi-autobiographical ice fishing simulator for the
 ZX Spectrum, you would have been both deeply prophetic and
 eerily correct.
 
-Made up of a series of simple minigames, *Liezere* is a
+Made up of a series of simple minigames, Liezere is a
 cosy fishing simulator that is much more than the sum of
 its parts. The author describes it as "an ice fishing
 simulator based on real events when my friends and I went
@@ -30,7 +30,7 @@ buttons—slowly this time—to reel in the fish. The game
 then tells you what you caught, and based on that
 information, the whole thing starts again. The fish you
 have just caught offers a clue as to where the next,
-bigger fish might be. The goal is to catch 'lunkers'—
+bigger fish might be. The goal is to catch 'lunkers'-
 exceptionally big fish, often considered a trophy catch
 due to their size and weight.
 
@@ -51,7 +51,7 @@ mashing, while reeling the fish in is slower. Add this to
 the time pressure of a waning day, and you have a game
 that is more addictive than expected. Third, the way the
 story unfolds feels deeply evocative. Feeding the cat,
-falling into a drunken stupor, drilling holes in the ice—
+falling into a drunken stupor, drilling holes in the ice-
 these are not the usual aspects of a ZX Spectrum game,
 but it is these little touches that let you know you are
 playing something rather special.
