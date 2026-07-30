@@ -26,7 +26,7 @@ That is not good game design. That is sorcery.
 The first task is to pick an area on the lake to fish.
 Then you mash some buttons to drill a hole. Then you mash
 other buttons to get a bite, before finally mashing
-buttons—slowly this time—to reel in the fish. The game
+buttons-slowly this time-to reel in the fish. The game
 then tells you what you caught, and based on that
 information, the whole thing starts again. The fish you
 have just caught offers a clue as to where the next,
@@ -46,7 +46,7 @@ multiple lunkers, and other surprises.
 The game's genius is threefold. First, the sumptuous
 presentation: gloriously smooth animations complement a
 charming art style and groovy music. Second, the change
-of pace when button mashing—luring the fish needs quick
+of pace when button mashing-luring the fish needs quick
 mashing, while reeling the fish in is slower. Add this to
 the time pressure of a waning day, and you have a game
 that is more addictive than expected. Third, the way the
