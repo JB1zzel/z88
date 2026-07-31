@@ -1,0 +1,278 @@
+The Sinclair QL, A Quantum Leap to Where?
+
+When we think of Sir Clive Sinclair, our minds often 
+jump to the ubiquitous Spectrum, the pocket 
+calculator, or, infamously, the C5 - An electric 
+tricycle for a dream Britain that never was. And it’s 
+this last project that holds a key to understanding 
+the fate of one of his most ambitious computers: the 
+Sinclair QL (Quantum Leap).
+
+By 1984, Sinclair’s attention was famously divided. 
+His passion project, the C5, was to be a revolutionary 
+personal transport solution for the masses, rivalling 
+the car. History, of course, judges it a commercial 
+disaster. A good product that failed to find its 
+market. In a twist of irony, had it been marketed as 
+a toy rather than serious transport, it might have 
+found the success it later enjoyed as a curiosity. But 
+the C5's catastrophic failure consumed Sinclair's 
+focus and capital at the very moment its technological 
+sibling, the QL, was fighting to be born.
+
+The QL was conceived as a professional machine, a step 
+beyond the hobbyist Spectrum. It was a bold vision: a 
+sleek, black "slab" of computing power with a built-in 
+multi-tasking operating system (or pre-emptive 
+multitasking as they called it). And it still looks 
+stunning today. Sinclair understood that aesthetics 
+sold technology, and he never made a bad looking 
+product.
+
+Yet, beneath its stylish exterior lay two critical, 
+self-inflicted wounds.
+
+First, the bespoke keyboard. Determined to avoid the 
+"dead flesh" keys of the Spectrum, Sinclair 
+commissioned a unique, custom solution. In typical 
+Sinclair fashion, it defiantly broke convention. The 
+key shapes were unusual, the layout was non-standard – 
+there is no Delete or Backspace key, a startling 
+omission for a machine aimed at business. The 
+baffling truth? Standard, off the shelf keyboard parts 
+would have provided a familiar, efficient typing 
+experience and been cheaper to manufacture. Sinclair's 
+insistence on a custom, idiosyncratic solution drove 
+costs up and produced a worse typing experience.
+
+But if you think that's an own goal, just wait.
+
+Second, and more damaging, were the Microdrives. These 
+innovative but fragile tape-loop storage systems were 
+pushed to run at speeds beyond their reliable limits. 
+This engineering hubris caused massive delays, as the 
+team wrestled with chronic reliability issues. The 
+lesson was clear: had Sinclair used existing, stable 
+Microdrive technology and a conventional keyboard, the 
+QL would have reached the market sooner, cheaper, and 
+with far fewer teething troubles.
+
+I'm not for one second suggesting my solutions would 
+have fixed every gripe. No disk drive or mouse 
+environment were key omissions out of step with a 
+market rushing towards IBM compatibility. But my fixes 
+would have brought a more reliable product to market 
+quicker and cheaper. It's not every day you can make a 
+change that results in cheaper, better and quicker – 
+this is arguably one of those rare exceptions.
+
+But ah, the gift of hindsight! The future was very 
+different. The C5 bankrupted the company, forcing its 
+sale to Alan Sugar, who canned the QL immediately.
+
+Despite these profound flaws, the QL’s legacy is 
+surprisingly secure. It brought the first true 
+multi-tasking operating system to a pre-packaged home 
+computer. A genuine quantum leap in concept. And while 
+commercial success eluded it, the machine forged a 
+passionate, international community of devotees who 
+continue to champion its unique character.
+
+You might think the story ends in the mid-80s, but 
+you'd be wrong. This small, hardcore following has 
+nurtured a remarkable homebrew scene. In the last few 
+years, developers have pushed the humble QL to places 
+Sinclair could only have dreamed of, creating games 
+that are not just nostalgic curiosities, but 
+incredible technical achievements. Let's explore (In 
+my own personal idiosyncratic order) some of the most 
+notable titles that have brought this classic machine 
+back to life…
+
+Batman (2021-2025) Joan Gayón
+
+If the Sinclair QL had enjoyed the commercial life it 
+deserved, Jon Ritman and Bernie Drummond's iconic 
+Batman (1986) would surely have been ported to the 
+machine. It never was. The QL was discontinued by 
+Amstrad just weeks before the game's release. But that 
+omission has now been spectacularly corrected.
+
+Spanish programmer Joan Gayón, driven by childhood 
+nostalgia and technical curiosity, spent years 
+mastering the QL's idiosyncratic hardware to craft not 
+merely a port, but a definitive reimagining. His 
+version transforms the original Spectrum's monochrome 
+isometric world into a glorious, full colour 
+experience, exploiting the QL's eight colour palette 
+with astonishing artistry. Every one of the original 
+screens is present, every puzzle intact, every enemy 
+and bat-gadget rendered with fluid precision.
+
+Written in pure 68000 assembler and requiring a 640k 
+memory expansion, it is a technical tour de force that 
+doesn't simply rival the original – it surpasses it 
+with one bold quantum leap. More than four years in 
+the making, Gayón's Batman is not just another 
+homebrew title. It is an epic journey of retro 
+devotion that stands as one of the finest games ever 
+released for the Sinclair QL, and a powerful testament 
+to the machine's enduring, international community.
+
+Old Tower (2026) – Jim McKay
+
+Old Tower continues where Batman left off. Dazzling, 
+it's a lavish, colour rich reimagining of a modern 
+Spectrum classic.
+
+Originally developed by Russian studio RetroSouls for 
+the ZX Spectrum in 2018, Old Tower was a competition 
+entry inspired by the mobile hit Tomb of the Mask, 
+notable for being the Spectrum's first ever 
+multicolour scroller. Fast forward to 2026, and 
+programmer Jim McKay has delivered a ground up, 
+bespoke conversion for the Sinclair QL that is, for 
+me, the definitive version.
+
+Everything is here. All the levels are faithfully 
+recreated, with splendid full colour graphics, buttery 
+smooth vertical scrolling, and optional AY music via 
+Qsound (many emulators support this hardware addon). 
+McKay even offers two editions: a lean 57KB build for 
+128K machines and a generously expanded version with 
+five compressed music tracks for systems with 256K or 
+more. It runs from a single Microdrive.
+
+The controls are tight, the puzzles are challenging, 
+and the presentation is polished to a professional 
+standard. Old Tower is not merely a competent port; 
+it's yet another masterclass in how to translate a 
+modern retro game to the QL with love, technical 
+skill, and deep respect for the source material.
+
+Android 2 (2025) – Spkr (Netherlands) and Ggn (Greece)
+
+For this QL conversion Spkr and Ggn came together to 
+prove Spectrum games can shine when implemented on 
+their favoured machine. Android 2, Vortex Software's 
+1986 isometric snake-hunting cult classic, was too 
+hard for me on the Spectrum. Their QL port runs at a 
+saner speed, toning the challenge down just enough to 
+make the game feel like a fun challenge rather than an 
+impossible feat of reflexes and dexterity.
+
+The QL version runs about 20% slower, and this is a 
+very good thing. You have time to think. The game 
+breathes. You get to act tactically, plan your moves, 
+review the lay of the land, and then attack those evil 
+snakes at a time and place of your choosing.
+
+Everything else, from the intro sequence to the 
+isometric charm, remains intact. The team made an 
+artistic decision to keep true to the original 
+graphics rather than enhance them – a wise decision, 
+because the game looks great already. Android 2 on the 
+QL was one I really had a blast playing. A truly 
+impressive conversion.
+
+Curse of Rabenstein (2025) – Alan Pemberton & Andrei 
+Tenu
+
+For Halloween, Pemberton and Tenu ported a game that 
+has become something of a horror classic on the 
+Spectrum Next: Curse of Rabenstein. Paul Jenkinson's 
+2025 DAAD powered, vampire slaying adventure is great 
+for beginners because of its short length, generosity 
+with clues, and puzzles that rarely demand complex 
+solutions.
+
+The QL version arrived with two editions on one disk: 
+a classic 8 colour build for standard machines, and a 
+glorious SMSQ/E version supporting 256 colours. Alan 
+and crew made it easy peasy for total QL noobs too. 
+They have a version packaged with an emulator – just 
+unzip and play. I was also able to play the 256 colour 
+version from the disk image on QPC2, which looks 
+incredibly slick.
+
+This is probably the perfect place to jump in first. 
+It's a great game, and it's a bridge – taking you from 
+the familiar comfort of the ZX Spectrum to the real 
+Spectrum Next, the QL, holding your hand all the way.
+
+Space Invaders (2024) – Simon Greenaway
+
+Sometimes the old ideas are the best, and sometimes 
+the simplest ideas are the hardest. Simon Greenaway's 
+Space Invaders is exactly what it says on the tin: "as 
+accurate to the original arcade game as I can be 
+bothered". And can I just say, he bothered. A lot.
+
+The result is a port so smooth, so faithful, it feels 
+less like a homebrew clone and more like the 
+professional conversion the QL should have had in 
+1984. Greenaway made a game that runs impressively on 
+original hardware and absolutely flies on turbocharged 
+QLs with Gold Cards (which is how I played it). Silky 
+framerate, precise hit detection, that unmistakable 
+descending dread.
+
+This is the arcade original, rendered in the QL's 
+eight colour palette, running on forty year old 
+British computing's most brilliantly bonkers hardware. 
+No gimmicks. No isometric puzzles. Just rows of 
+aliens, a single laser cannon, and the relentless 
+ticking clock of their descent. Perfect.
+
+Pitman 2024
+
+Catrap is a Japanese exclusive hidden gem on the Game 
+Boy. Think of the crate pushing Sokoban games as a 
+side on spectacle, complete with platforming staples 
+of ladders and collapsible platforms. Andrew has 
+produced a spectacular port of this game using the 
+QL's SuperBASIC in the form of Pitman.
+
+Andrew is no slouch when it comes to making impressive 
+games and software for the QL. His similar titles 
+include Qstar and Qstar2, both classic crate shifting 
+games from the 80s. I chose Pitman to showcase today, 
+but his other games deserve a look too.
+
+It's so impressive that games of this quality can be 
+produced in SuperBASIC. Pitman contains some quite 
+challenging puzzles, but its gentle learning curve 
+gives you a fighting chance. Well worth checking out – 
+it's a truly great port.
+
+Conclusion
+
+Well, sadly, this brings me to the end of this 
+feature. One I have really enjoyed exploring.
+
+At the start, the QL was relatively unfamiliar to me, 
+and I confess it's not always straightforward to 
+navigate its vast (and I do mean vast) ecosystem. 
+Aftermarket ROMs, software, hardware addons and – 
+excitingly – new and more powerful machines like 
+cloned Gold Cards, SD interfaces and the Q68 await the 
+curious explorer. But it's in part this mysterious 
+tinkerers' warren of revision and development branches 
+that keeps the QL so exotic in the first place.
+
+All in all I count 24 new games for the QL in the last 
+three years. That's nowhere near as many as the humble 
+Speccy, but that sort of thinking misses the point. 
+Visit the forums (Spanish and English) for yourself, 
+and find a vibrant scene of friendly folk up to all 
+sorts of technical wizardry that doesn't sit neatly in 
+a gaming article. And that's very fitting, because it 
+shows the QL was more than the cheap gaming machine 
+that was the Spectrum's niche.
+
+In that way I think Sinclair gets the last laugh. On 
+its launch, the magazines scoffed: "A Quantum Leap to 
+where?" Forty years later the community answers as 
+loudly as ever – to endless tinkering! And isn't that 
+what a computer was meant to be? A bicycle for the 
+mind.
