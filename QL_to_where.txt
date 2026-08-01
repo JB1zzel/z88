@@ -3,12 +3,12 @@ The Sinclair QL, A Quantum Leap to Where?
 When we think of Sir Clive Sinclair, our minds often 
 jump to the ubiquitous Spectrum, the pocket 
 calculator, or, infamously, the C5 - An electric 
-tricycle for a dream Britain that never was. And it’s 
+tricycle for a dream Britain that never was. And it's 
 this last project that holds a key to understanding 
 the fate of one of his most ambitious computers: the 
 Sinclair QL (Quantum Leap).
 
-By 1984, Sinclair’s attention was famously divided. 
+By 1984, Sinclair's attention was famously divided. 
 His passion project, the C5, was to be a revolutionary 
 personal transport solution for the masses, rivalling 
 the car. History, of course, judges it a commercial 
@@ -70,7 +70,7 @@ But ah, the gift of hindsight! The future was very
 different. The C5 bankrupted the company, forcing its 
 sale to Alan Sugar, who canned the QL immediately.
 
-Despite these profound flaws, the QL’s legacy is 
+Despite these profound flaws, the QL's legacy is 
 surprisingly secure. It brought the first true 
 multi-tasking operating system to a pre-packaged home 
 computer. A genuine quantum leap in concept. And while 
